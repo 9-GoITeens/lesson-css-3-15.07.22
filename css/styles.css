@@ -1,48 +1,7 @@
-/* button[type="submit"]{
+section{
+    color: blue;
+}
+
+.section{
     color: red;
-    cursor: pointer;
-} */
-
-/* .section p{
-color: green;
-} */
-
-/* .section a{
-    color: red;
-} */
-
-/* .section{
-    color: aqua;
-} */
-
-/* section > p{
-    color: red;
-} */
-
-/* h2 + p{
-    color: red;
-} */
-
-/* h2 ~ p{
-    color: red;
-} */
-
-/* .section p{
-    color: red;
-} */
-
-/* *{
-    color: red;
-} */
-/* .section *{
-    color: red;
-} */
-
-/* a[href^="https"]{
-    color: red;
-} */
-/* a[href$=".jpeg"] {
-    color: red;
-} */
-
-
+}
