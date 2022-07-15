@@ -61,5 +61,7 @@ button:active {
 .link:focus{
     color: blue;
 }
-
+ .link:visited{
+    color: brown;
+ }
 
