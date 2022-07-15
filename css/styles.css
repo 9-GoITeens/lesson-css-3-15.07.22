@@ -1,7 +1,65 @@
-section{
-    color: blue;
+/* :root{
+    --main-text-color:rgb(38, 255, 0);
 }
 
 .section{
+color: var(--main-text-color);
+}
+a{
+    color: var(--main-text-color);
+}
+.section-title{
+    color: var(--main-text-color);
+    --main-text-color:blue;
+} */
+
+/* .section {
     color: red;
 }
+
+section{
+    color: blue;
+}
+#section{
+    color: blueviolet;
+}
+
+section.section.section-about{
+    color: aqua;
+} */
+/* .dark-bg{
+    background-color: black;
+} */
+
+/* .dark-bg .section-title{
+    color: wheat;
+} */
+
+/* .section-title{
+    color: red !important;
+} */
+/* .section{
+    color: rgba(194, 30, 30, 0.8);
+} */
+/* .section{
+    background-color: rgba(194, 30, 30, 0.8);
+} */
+
+button{
+    background-color: plum;
+}
+button:hover{
+background-color: blue;
+}
+button:focus {
+    background-color: red;
+}
+button:active {
+    background-color:wheat;
+}
+.link:hover,
+.link:focus{
+    color: blue;
+}
+
+
